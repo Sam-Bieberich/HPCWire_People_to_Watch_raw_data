@@ -1,42 +1,42 @@
 # HPCWire_People_to_Watch_raw_data
-Raw Data for HPCWire People to Watch annual list through 2025
+Raw Data for HPCWire People to Watch annual list through 2026
 
 ## Multi-time Awardees
 
 | Name                | Times Awarded |
 |---------------------|--------------|
-| Trish Damkroger     | 3            |
-| Thomas Lippert      | 3            |
 | Satoshi Matsuoka    | 3            |
-| Richard C. Murphy   | 2            |
-| David Bader         | 2            |
+| Thomas Lippert      | 3            |
+| Trish Damkroger     | 3            |
 | Alex Bouzari        | 2            |
-| Steve Scott         | 2            |
-| John West           | 2            |
-| Diane Bryant        | 2            |
-| Sumit Gupta         | 2            |
-| Pete Ungaro         | 2            |
-| Raj Hazra           | 2            |
-| Happy Sithole       | 2            |
-| Charles Wuischpard  | 2            |
-| Katie Antypas       | 2            |
-| Ken King            | 2            |
 | Bernd Mohr          | 2            |
-| Yutong Lu           | 2            |
-| Hartmut Neven       | 2            |
-| Lisa Su             | 2            |
-| Jeffrey Vetter      | 2            |
-| Rick Stevens        | 2            |
-| Lori Diachin        | 2            |
-| Jim Keller          | 2            |
-| Thierry Pellegrino  | 2            |
-| Justin Hotard       | 2            |
 | Calista Redmond     | 2            |
-| Mateo Valero        | 2            |
+| Charles Wuischpard  | 2            |
 | Dario Gil           | 2            |
+| David Bader         | 2            |
+| Diane Bryant        | 2            |
+| Happy Sithole       | 2            |
+| Hartmut Neven       | 2            |
 | Ian Colle           | 2            |
 | Jay Gambetta        | 2            |
+| Jeffrey Vetter      | 2            |
+| Jim Keller          | 2            |
+| John West           | 2            |
+| Justin Hotard       | 2            |
 | Kathy Yelick        | 2            |
+| Katie Antypas       | 2            |
+| Ken King            | 2            |
+| Lisa Su             | 2            |
+| Lori Diachin        | 2            |
+| Mateo Valero        | 2            |
+| Peter Ungaro        | 2            |
+| Raj Hazra           | 2            |
+| Richard C. Murphy   | 2            |
+| Rick Stevens        | 2            |
+| Steve Scott         | 2            |
+| Sumit Gupta         | 2            |
+| Thierry Pellegrino  | 2            |
+| Yutong Lu           | 2            |
 
 
 ## Multi-time Awardee Locations
@@ -47,33 +47,36 @@ Raw Data for HPCWire People to Watch annual list through 2025
 | Oak Ridge National Laboratory             | 11    |
 | IBM                                       | 10    |
 | Lawrence Livermore National Laboratory    | 7     |
-| Microsoft                                 | 6     |
-| University of Illinois Urbana-Champaign   | 6     |
-| NVIDIA                                    | 6     |
-| Cray                                      | 6     |
 | AMD                                       | 6     |
+| Cray                                      | 6     |
 | HPE                                       | 6     |
-| Google                                    | 5     |
+| Microsoft                                 | 6     |
+| NVIDIA                                    | 6     |
+| University of Illinois Urbana-Champaign   | 6     |
 | Argonne National Laboratory               | 5     |
+| Google                                    | 5     |
 | Julich Supercomputing Centre              | 5     |
 | Texas Advanced Computing Center           | 4     |
-| Department of Defense                     | 3     |
-| Dell                                      | 3     |
-| National Science Foundation               | 3     |
 | Amazon                                    | 3     |
+| Atos Group                                | 3     |
 | Barcelona Supercomputing Center           | 3     |
-| Silicon Graphics International            | 2     |
-| Indiana University                        | 2     |
-| Sandia National Laboratory                | 2     |
-| Georgia Tech                              | 2     |
+| Dell                                      | 3     |
+| Department of Defense                     | 3     |
+| National Science Foundation               | 3     |
+| Cavium                                    | 2     |
 | DataDirect Networks                       | 2     |
 | Fujitsu                                   | 2     |
-| Los Alamos National Laboratory            | 2     |
+| Georgia Tech                              | 2     |
+| Indiana University                        | 2     |
 | Lawrence Berkeley Lab                     | 2     |
-| Lenovo                                    | 2     |
-| Atos                                      | 2     |
 | Leibniz Supercomputing Centre             | 2     |
+| Lenovo                                    | 2     |
+| Los Alamos National Laboratory            | 2     |
+| National Integrated Cyberinfrastructure System | 2   |
 | RIKEN                                     | 2     |
+| RISC-V                                    | 2     |
+| Sandia National Laboratory                | 2     |
+| Silicon Graphics International            | 2     |
 
 
 ## Awardees by Year
@@ -96,3 +99,4 @@ Raw Data for HPCWire People to Watch annual list through 2025
 | 2023 | 12       |
 | 2024 | 12       |
 | 2025 | 12       |
+| 2026 | 12       |

@@ -45,7 +45,7 @@ Year Awarded,Name,Affiliation,HPCWire Bio/Interview,Wikipedia Link,Affiliation L
 2013,Henry Markram,École Polytechnique Fédérale de Lausanne,https://www.hpcwire.com/henry-markram/,https://en.wikipedia.org/wiki/Henry_Markram,https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne
 2013,Cynthia McIntyre,Council on Competitiveness,https://www.hpcwire.com/cynthia-mcintyre/,https://en.wikipedia.org/wiki/Cynthia_Roberta_McIntyre,https://en.wikipedia.org/wiki/U.S._Council_on_Competitiveness
 2013,Thomas Sterling,Indiana University,https://www.hpcwire.com/thomas-sterling/,https://en.wikipedia.org/wiki/Thomas_Sterling_(computing),https://en.wikipedia.org/wiki/Indiana_University_Bloomington
-2013,Pete Ungaro,Cray,https://www.hpcwire.com/pete-ungaro/,https://en.wikipedia.org/wiki/Peter_Ungaro,https://en.wikipedia.org/wiki/Cray
+2013,Peter Ungaro,Cray,https://www.hpcwire.com/pete-ungaro/,https://en.wikipedia.org/wiki/Peter_Ungaro,https://en.wikipedia.org/wiki/Cray
 2013,Weimin Zheng,Tsinghua University,https://www.hpcwire.com/weimin-zheng/,https://en.wikipedia.org/wiki/Zheng_Weimin,https://en.wikipedia.org/wiki/Tsinghua_University
 2014,David Bader,Georgia Tech,https://www.hpcwire.com/david-bader/,https://en.wikipedia.org/wiki/David_Bader_(computer_scientist),https://en.wikipedia.org/wiki/Georgia_Tech
 2014,Trish Damkroger,Lawrence Livermore National Laboratory,https://www.hpcwire.com/trish-damkroger/,,https://en.wikipedia.org/wiki/Lawrence_Livermore_National_Laboratory
@@ -115,7 +115,7 @@ Year Awarded,Name,Affiliation,HPCWire Bio/Interview,Wikipedia Link,Affiliation L
 2018,Trish Damkroger,Intel,,,https://en.wikipedia.org/wiki/Intel
 2019,Lori Diachin,Lawrence Livermore National Laboratory,,https://en.wikipedia.org/wiki/Lori_Diachin,https://en.wikipedia.org/wiki/Lawrence_Livermore_National_Laboratory
 2019,Talia Gershon,IBM,,,https://en.wikipedia.org/wiki/IBM
-2019,Gopal Hegde,Cavium/Marvell,,,https://en.wikipedia.org/wiki/Cavium
+2019,Gopal Hegde,Cavium,,,https://en.wikipedia.org/wiki/Cavium
 2019,Steve Oberlin,NVIDIA,,,https://en.wikipedia.org/wiki/Nvidia
 2019,Jim Keller,Intel,,https://en.wikipedia.org/wiki/Jim_Keller_(engineer),https://en.wikipedia.org/wiki/Intel
 2019,Ken King,IBM,,,https://en.wikipedia.org/wiki/IBM
@@ -154,13 +154,13 @@ Year Awarded,Name,Affiliation,HPCWire Bio/Interview,Wikipedia Link,Affiliation L
 2022,Keren Bergman,Columbia University,https://www.hpcwire.com/people-to-watch-2022/2/,https://en.wikipedia.org/wiki/Keren_Bergman,https://en.wikipedia.org/wiki/Columbia_University
 2022,Sven Breuner,VAST Data,https://www.hpcwire.com/people-to-watch-2022/3/,,https://en.wikipedia.org/wiki/VAST_Data
 2022,Candace Culhane,Los Alamos National Laboratory,https://www.hpcwire.com/people-to-watch-2022/4/,,https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory
-2022,Eric Eppe,Atos,https://www.hpcwire.com/people-to-watch-2022/5/,,https://en.wikipedia.org/wiki/Atos
+2022,Eric Eppe,Atos Group,https://www.hpcwire.com/people-to-watch-2022/5/,,https://en.wikipedia.org/wiki/Atos
 2022,Jay Gambetta,IBM,https://www.hpcwire.com/people-to-watch-2022/6/,https://en.wikipedia.org/wiki/Jay_Gambetta,https://en.wikipedia.org/wiki/IBM
 2022,Lydia Kavraki,Rice University,https://www.hpcwire.com/people-to-watch-2022/7/,https://en.wikipedia.org/wiki/Lydia_Kavraki,https://en.wikipedia.org/wiki/Rice_University
 2022,Thomas Lippert,Julich Supercomputing Centre,https://www.hpcwire.com/people-to-watch-2022/8/,,https://en.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich
 2022,Jeff McVeigh,Intel,https://www.hpcwire.com/people-to-watch-2022/9/,,https://en.wikipedia.org/wiki/Intel
 2022,Bronson Messer,Oak Ridge National Laboratory,https://www.hpcwire.com/people-to-watch-2022/10/,,https://en.wikipedia.org/wiki/Oak_Ridge_National_Laboratory
-2022,Eric Monchalin,Atos,https://www.hpcwire.com/people-to-watch-2022/11/,,https://en.wikipedia.org/wiki/Atos
+2022,Eric Monchalin,Atos Group,https://www.hpcwire.com/people-to-watch-2022/11/,,https://en.wikipedia.org/wiki/Atos
 2022,Calista Redmond,RISC-V,https://www.hpcwire.com/people-to-watch-2022/12/,https://en.wikipedia.org/wiki/Calista_Redmond,https://en.wikipedia.org/wiki/RISC-V
 2022,Katherine Riley,Argonne National Laboratory,https://www.hpcwire.com/people-to-watch-2022/13/,,https://en.wikipedia.org/wiki/Argonne_National_Laboratory
 2023,Dorian C. Arnold,Emory University,https://www.hpcwire.com/people-to-watch-2023-dorian-c-arnold/,,https://en.wikipedia.org/wiki/Emory_University
@@ -183,9 +183,9 @@ Year Awarded,Name,Affiliation,HPCWire Bio/Interview,Wikipedia Link,Affiliation L
 2024,Dieter Kranzlmüller,Leibniz Supercomputing Centre,https://www.hpcwire.com/people-to-watch-2024-dieter-kranzlmuller/,,https://en.wikipedia.org/wiki/Leibniz_Supercomputing_Centre
 2024,Yann Lecun,Meta,https://www.hpcwire.com/people-to-watch-2024-yann-lecun/,https://en.wikipedia.org/wiki/Yann_LeCun,https://en.wikipedia.org/wiki/Meta_Platforms
 2024,Celia Merzbacher,Quantum Economic Development Consortium (QED-C),https://www.hpcwire.com/people-to-watch-2024-celia-merzbacher/,,
-2024,Calista Redmond,RISC-V International,https://www.hpcwire.com/people-to-watch-2024-calista-redmond/,https://en.wikipedia.org/wiki/Calista_Redmond,https://en.wikipedia.org/wiki/RISC-V
+2024,Calista Redmond,RISC-V,https://www.hpcwire.com/people-to-watch-2024-calista-redmond/,https://en.wikipedia.org/wiki/Calista_Redmond,https://en.wikipedia.org/wiki/RISC-V
 2024,Philip Roth,Oak Ridge National Laboratory,https://www.hpcwire.com/people-to-watch-2024-philip-roth/,,https://en.wikipedia.org/wiki/Oak_Ridge_National_Laboratory
-2024,Happy Sithole,National Integrated Cyber-Infrastructure System,https://www.hpcwire.com/people-to-watch-2024-happy-sithole/,,
+2024,Happy Sithole,National Integrated Cyberinfrastructure System,https://www.hpcwire.com/people-to-watch-2024-happy-sithole/,,
 2024,Gina Tourassi,Oak Ridge National Laboratory,https://www.hpcwire.com/people-to-watch-2024-gina-tourassi/,https://en.wikipedia.org/wiki/Georgia_Tourassi,https://en.wikipedia.org/wiki/Oak_Ridge_National_Laboratory
 2025,Charlie Catlett,Argonne National Laboratory,https://www.hpcwire.com/people-to-watch-2025-charlie-catlett/,https://en.wikipedia.org/wiki/Charlie_Catlett,https://en.wikipedia.org/wiki/Argonne_National_Laboratory
 2025,Ken Claffey,VDURA,https://www.hpcwire.com/people-to-watch-2025-ken-claffey/,,https://en.wikipedia.org/wiki/VDURA
